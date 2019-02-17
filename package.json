@@ -7,7 +7,16 @@
   "author": "Akash Sawant <sawantakash321@gmail.com>",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "start": "electron ."
+  },
   "devDependencies": {
-    "electron": "^4.0.5"
+    "electron": "^4.0.5",
+    "eslint": "5.3.0",
+    "eslint-config-airbnb-base": "13.1.0",
+    "eslint-config-prettier": "^4.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-prettier": "^3.0.1",
+    "prettier": "^1.16.4"
   }
 }
