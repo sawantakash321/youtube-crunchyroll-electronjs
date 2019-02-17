@@ -6,5 +6,8 @@
   "repository": "https://github.com/sawantakash321/youtube-crunchyroll-electronjs.git",
   "author": "Akash Sawant <sawantakash321@gmail.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "electron": "^4.0.5"
+  }
 }
