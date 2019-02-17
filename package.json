@@ -1,0 +1,10 @@
+{
+  "name": "youtube-crunchyroll-electronjs",
+  "version": "0.1.0",
+  "description": "Electron desktop all for youtube and crunchyroll",
+  "main": "index.js",
+  "repository": "https://github.com/sawantakash321/youtube-crunchyroll-electronjs.git",
+  "author": "Akash Sawant <sawantakash321@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
