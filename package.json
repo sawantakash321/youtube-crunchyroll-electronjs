@@ -8,7 +8,8 @@
 	"license": "MIT",
 	"private": true,
 	"scripts": {
-		"start": "electron ."
+		"start": "electron .",
+		"lint": "eslint **/*.js"
 	},
 	"dependencies": {
 		"electron": "^4.0.5"
